@@ -1,5 +1,5 @@
 # Titanic
-# Ab0ut
+# About
 The repository contains scripts and tools for conducting "Predictive Analysis and Data Exploration of Titanic Passenger Survival" using R programming. Here i added the word document of the 
 outcomes of this project
 # Objective of the Project
